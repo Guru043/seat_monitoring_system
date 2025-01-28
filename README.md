@@ -1,8 +1,8 @@
-# **Seat Monitoring System **
+# Seat Monitoring System 
 
 This project is a simulated seat monitoring system designed to emulate real-world applications in embedded systems. It monitors vibration levels and temperature, triggering alerts and actions when thresholds are exceeded. The system is implemented in C and runs as a console-based application.
 
-## **Features**
+## Features
 - Simulates vibration and temperature sensor readings.
 - Displays data on a simulated LCD output.
 - Triggers alerts for high vibration.
@@ -10,7 +10,7 @@ This project is a simulated seat monitoring system designed to emulate real-worl
 
 ---
 
-## **Requirements**
+## Requirements
 - A C compiler (e.g., GCC, MinGW, or Visual Studio).
 - Supported platforms:
   - Windows (uses `Sleep()` for delay).
@@ -18,7 +18,7 @@ This project is a simulated seat monitoring system designed to emulate real-worl
 
 ---
 
-## **How to Run**
+## How to Run
 
 1. **Clone the Repository**:
    ```bash
